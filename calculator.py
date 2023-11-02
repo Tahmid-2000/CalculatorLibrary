@@ -1,9 +1,9 @@
 class Calculator:
-    def add(self, x, y):
-        return x + y
+    def add(first_term, second_term):
+        return first_term + second_term
 
-    def subtract(self, x, y):
-        return x - y
+    def subtract(first_term, second_term):
+        return first_term - second_term
 
     def multiply(first_term, second_term):
         return first_term * second_term
